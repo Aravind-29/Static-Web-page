@@ -1,4 +1,4 @@
-# Static Website Creation
+# Static Website Page
 
 ## Project Description
 
